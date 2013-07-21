@@ -6,10 +6,10 @@ Localized MTH
 In Code Block term is used to present Localized i.e. Block ~ Localized
 PS. The orientation from 0 ~ 360 are presented as 360 or nothing and orientations from 0 ~ 180 are presented as 18.
 
-There are 3 approaches in the code provided:
-1) MTH  (By Original Author)
-2) LMTH (Proposed)
-3) MTH  (Modified Using Canny => runs on approach 1) 
+There are 3 approaches in the code provided:    
+1) MTH  (By Original Author)    
+2) LMTH (Proposed)    
+3) MTH  (Modified Using Canny => runs on approach 1)     
 
 
 There are few things you need to do before you can run the code:
